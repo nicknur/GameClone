@@ -9,7 +9,7 @@ public class Main {
 		member1.setUserId(1);
 		member1.setUserFirstName("Yýlmaz");
 		member1.setUserLastName("Uçar");
-		member1.setNationalId(Long.parseLong("19948160424"));
+		member1.setNationalId(Long.parseLong("1111110424"));
 		member1.setWallet((double) 500);
 		member1.setDateYear(1998);
 		
